@@ -1,0 +1,2 @@
+# QuickAudits-SmartContracts
+Fundamental audits 
