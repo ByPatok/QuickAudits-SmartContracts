@@ -35,17 +35,22 @@ Discord: patowtf
 Check where i'm at right now!
 
 *Click to see original repo*
-- [ ] Challenge 0 - [PasswordStore](https://github.com/Cyfrin/3-passwordstore-audit/tree/onboarded) - In Progress
-- [ ] Challenge 1 - [PuppyRaffle](https://github.com/Cyfrin/security-and-auditing-full-course-s23?tab=readme-ov-file#-section-4-manual--static-analysis--puppy-raffle-audit) 
-- [ ] Challenge 2 - [TSwap](https://github.com/Cyfrin/security-and-auditing-full-course-s23?tab=readme-ov-file#-section-5-invariants--intro-to-defi--tswap-audit)
-- [ ] Challenge 3 - [ThunderLoan](https://github.com/Cyfrin/security-and-auditing-full-course-s23?tab=readme-ov-file#%EF%B8%8F-section-6-centralization-proxies-and-oracles--thunder-loan-audit) 
-- [ ] Challenge 4 - [BridgeBoss](https://github.com/Cyfrin/security-and-auditing-full-course-s23?tab=readme-ov-file#-section-7-bridges-chains-signatures-intro-to-yulassembly--bridge-boss-audit) 
-- [ ] Challenge 5 - [VaultGuardians](https://github.com/Cyfrin/security-and-auditing-full-course-s23?tab=readme-ov-file#section-8-the-final-boss-audit-mev-nodes--daos--vault-guardians-audit) 
+- [x] Challenge 0 - [PasswordStore](https://github.com/Cyfrin/3-passwordstore-audit/tree/onboarded) - Done!
+- [ ] Challenge 1 - [PuppyRaffle](https://github.com/Cyfrin/security-and-auditing-full-course-s23?tab=readme-ov-file#-section-4-manual--static-analysis--puppy-raffle-audit) - In Progress
+- [ ] Challenge 2 - [TSwap](https://github.com/Cyfrin/security-and-auditing-full-course-s23?tab=readme-ov-file#-section-5-invariants--intro-to-defi--tswap-audit) - Soon
+- [ ] Challenge 3 - [ThunderLoan](https://github.com/Cyfrin/security-and-auditing-full-course-s23?tab=readme-ov-file#%EF%B8%8F-section-6-centralization-proxies-and-oracles--thunder-loan-audit) - Soon
+- [ ] Challenge 4 - [BridgeBoss](https://github.com/Cyfrin/security-and-auditing-full-course-s23?tab=readme-ov-file#-section-7-bridges-chains-signatures-intro-to-yulassembly--bridge-boss-audit) - Soon
+- [ ] Challenge 5 - [VaultGuardians](https://github.com/Cyfrin/security-and-auditing-full-course-s23?tab=readme-ov-file#section-8-the-final-boss-audit-mev-nodes--daos--vault-guardians-audit) - Soon
 
 ## Structure Overview
 ```bash
-├── Challenge0-passwordSotre
-│   ├── 
+├── PasswordStore
+│   ├── Contracts
+│   ├───├─ PasswordStore.sol
+│   ├── Test
+│   ├───├─ PasswordStore.t.sol
+│   ├── Report
+│   ├───├─ ReportAudit.md
 ├── Challenge1-
 │   ├── 
 ├── Challenge2-
